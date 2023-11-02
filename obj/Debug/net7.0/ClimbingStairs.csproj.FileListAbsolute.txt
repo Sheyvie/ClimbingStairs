@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\Algorithm practice\ClimbingStairs\obj\Debug\net7.0\ClimbingStairs.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Algorithm practice\ClimbingStairs\obj\Debug\net7.0\ClimbingStairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Algorithm practice\ClimbingStairs\obj\Debug\net7.0\ClimbingStairs.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Algorithm practice\ClimbingStairs\obj\Debug\net7.0\ClimbingStairs.AssemblyInfo.cs
+C:\Users\USER\Documents\Algorithm practice\ClimbingStairs\obj\Debug\net7.0\ClimbingStairs.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Algorithm practice\ClimbingStairs\bin\Debug\net7.0\ClimbingStairs.exe
+C:\Users\USER\Documents\Algorithm practice\ClimbingStairs\bin\Debug\net7.0\ClimbingStairs.deps.json
+C:\Users\USER\Documents\Algorithm practice\ClimbingStairs\bin\Debug\net7.0\ClimbingStairs.runtimeconfig.json
+C:\Users\USER\Documents\Algorithm practice\ClimbingStairs\bin\Debug\net7.0\ClimbingStairs.dll
+C:\Users\USER\Documents\Algorithm practice\ClimbingStairs\bin\Debug\net7.0\ClimbingStairs.pdb
+C:\Users\USER\Documents\Algorithm practice\ClimbingStairs\obj\Debug\net7.0\ClimbingStairs.dll
+C:\Users\USER\Documents\Algorithm practice\ClimbingStairs\obj\Debug\net7.0\refint\ClimbingStairs.dll
+C:\Users\USER\Documents\Algorithm practice\ClimbingStairs\obj\Debug\net7.0\ClimbingStairs.pdb
+C:\Users\USER\Documents\Algorithm practice\ClimbingStairs\obj\Debug\net7.0\ClimbingStairs.genruntimeconfig.cache
+C:\Users\USER\Documents\Algorithm practice\ClimbingStairs\obj\Debug\net7.0\ref\ClimbingStairs.dll
